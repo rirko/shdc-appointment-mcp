@@ -1,0 +1,9 @@
+node_modules/
+dist/
+coverage/
+.shdc-appointment-mcp/
+*.log
+
+# Local test/source documents; do not upload medical-style documents by default.
+病例/
+*.docx
