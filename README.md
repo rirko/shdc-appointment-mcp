@@ -4,6 +4,8 @@ TypeScript MCP stdio server for the Shanghai SHDC appointment site.
 
 This server keeps the user in the loop for all captcha, SMS, patient identity, and final submission steps. It does not bypass verification or submit a registration without explicit confirmation.
 
+This repository also includes the `medical-triage-followup` Codex skill for Chinese medical triage, medical record extraction, follow-up cards, and SHDC appointment guidance. See [MEDICAL_TRIAGE_FOLLOWUP_SKILL_README.md](MEDICAL_TRIAGE_FOLLOWUP_SKILL_README.md) for the detailed skill documentation.
+
 ## Setup
 
 ```bash
